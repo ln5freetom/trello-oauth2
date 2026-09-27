@@ -6,7 +6,7 @@ agent_created: true
 
 # Trello OAuth 2.0 (Atlassian 3LO)
 
-> 🇨🇳 **中文版工作流**：[references/skill_zh.md]([references/skill_zh.md] · 中文 API 速查：[references/api_reference_zh.md](references/api_reference_zh.md)
+> 🇨🇳 **中文版工作流**：[references/skill_zh.md]([references/skill_zh.md]) · 中文 API 速查：[references/api_reference_zh.md](references/api_reference_zh.md)
 
 ## Overview
 
